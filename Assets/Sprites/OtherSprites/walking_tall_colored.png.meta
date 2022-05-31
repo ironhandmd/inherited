@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: fe5c7faf9babda6478dbc140ec3740b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4986133047927611439
+    second: walking_tall_colored_0
+  - first:
+      213: -8422976186021200847
+    second: walking_tall_colored_1
+  - first:
+      213: -2367147579885472620
+    second: walking_tall_colored_2
+  - first:
+      213: 4673469041914253151
+    second: walking_tall_colored_3
+  - first:
+      213: 3257453541029869782
+    second: walking_tall_colored_4
+  - first:
+      213: 5361529665727994753
+    second: walking_tall_colored_5
+  - first:
+      213: 6605010565608451517
+    second: walking_tall_colored_6
+  - first:
+      213: 8820254270085326509
+    second: walking_tall_colored_7
+  - first:
+      213: -2139529999589588682
+    second: walking_tall_colored_8
+  - first:
+      213: 2603203573059508426
+    second: walking_tall_colored_9
+  - first:
+      213: 3920526319443529838
+    second: walking_tall_colored_10
+  - first:
+      213: 5207393620087778899
+    second: walking_tall_colored_11
+  - first:
+      213: 7782813249166072102
+    second: walking_tall_colored_12
+  - first:
+      213: 8097366894104257278
+    second: walking_tall_colored_13
+  - first:
+      213: 928032524046105159
+    second: walking_tall_colored_14
+  - first:
+      213: 7011439736144403921
+    second: walking_tall_colored_15
+  - first:
+      213: 2320372189547150780
+    second: walking_tall_colored_16
+  - first:
+      213: 9128659377765521165
+    second: walking_tall_colored_17
+  - first:
+      213: -8121064408762314571
+    second: walking_tall_colored_18
+  - first:
+      213: 1533011728841432682
+    second: walking_tall_colored_19
+  - first:
+      213: -3819144845440368555
+    second: walking_tall_colored_20
+  - first:
+      213: -3412558252733429205
+    second: walking_tall_colored_21
+  - first:
+      213: 7113637468043856776
+    second: walking_tall_colored_22
+  - first:
+      213: 6549288847399508031
+    second: walking_tall_colored_23
+  - first:
+      213: 3915406405064693014
+    second: walking_tall_colored_24
+  - first:
+      213: 4315128115383269523
+    second: walking_tall_colored_25
+  - first:
+      213: -1146221792355101557
+    second: walking_tall_colored_26
+  - first:
+      213: 1529726784474292048
+    second: walking_tall_colored_27
+  - first:
+      213: -5211336145373848359
+    second: walking_tall_colored_28
+  - first:
+      213: -7853623008735660554
+    second: walking_tall_colored_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walking_tall_colored_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 250
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b9a8a261c94b343bb694e293b1bb18
+      internalID: -4986133047927611439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 250
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cbee4c2479eb94987d45404cfa1f53
+      internalID: -8422976186021200847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 248
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1894d4ad58923542af31e2c5a222b7e
+      internalID: -2367147579885472620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 248
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba06b77eaa8bd4439809b41f96cf376
+      internalID: 4673469041914253151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 249
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100f1e81c5f91794d80270d71030e1e9
+      internalID: 3257453541029869782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 249
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f31e4e2b843d645ac0bbfe49c5f828
+      internalID: 5361529665727994753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 247
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a1fd55816cabc49a6a6265a18a79ba
+      internalID: 6605010565608451517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 247
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4b25a1692e0e84586ece856f626b8b
+      internalID: 8820254270085326509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 164
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5e61411fbe4e2439382c6503e80956
+      internalID: -2139529999589588682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 164
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3f1f35d5987fc408317dce324f2a67
+      internalID: 2603203573059508426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 166
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5821779dfd74f043a33f528d76b9e0e
+      internalID: 3920526319443529838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 166
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469477d6d8f026e4db93e072ae0b610c
+      internalID: 5207393620087778899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 165
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2801f55c6858c42a5d55105ed5121b
+      internalID: 7782813249166072102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 165
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3995971bd174624b9e696e65b08d53e
+      internalID: 8097366894104257278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 167
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdce9b9283bf1c40a3de9f063bc7a5f
+      internalID: 928032524046105159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 167
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e71a42458ce36a44a809f136dafcd59
+      internalID: 7011439736144403921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 87
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bc7f1ae44faee47869eb5b79bdbedd
+      internalID: 2320372189547150780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 86
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3f40afd9266fd4fa52bbc0e958f67d
+      internalID: 9128659377765521165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 86
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650f8ff2641f7824e972d6fb17334f31
+      internalID: -8121064408762314571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 86
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64807bf7d2620904c8dcc643eb572653
+      internalID: 1533011728841432682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_20
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 86
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1166f65dfe5d57f458b395dbdc74cf16
+      internalID: -3819144845440368555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_21
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 86
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c20dac737fe1449bd7bb62b31d1bbe
+      internalID: -3412558252733429205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 87
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a821ab67479e05040bfef4ceb46710db
+      internalID: 7113637468043856776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e626ac97ea1d07c4d931510417857843
+      internalID: 6549288847399508031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 10
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82409b62dc3685419fad471f742bc80
+      internalID: 3915406405064693014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 10
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9a4739e7eb24748a499cf4af9c85f5
+      internalID: 4315128115383269523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_26
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 10
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a638a096bce5dd49a4aea71692d6858
+      internalID: -1146221792355101557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 10
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3fc74c69a2ca04ba19b6a9f13f6a1a
+      internalID: 1529726784474292048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_28
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 11
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2059b704b3ad18442bb5e4a22ed864f7
+      internalID: -5211336145373848359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_tall_colored_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 10
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47ef8548e8e3d64292800f4e8fc7cc0
+      internalID: -7853623008735660554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

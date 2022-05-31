@@ -6,9 +6,7 @@ WebGL version is released on the https://ironhandmd.itch.io/inherited page
 
 Unity 
 Adobe Photoshop
-Open Game Art
-   Spritesheet  
-   Music   
+Open Game Art for the Spritesheet  and Music   
 # Pictures
 
 ![title](https://user-images.githubusercontent.com/93461196/171074856-bc157c29-c1e6-4e67-b2cf-7b3b3ba199e3.png)

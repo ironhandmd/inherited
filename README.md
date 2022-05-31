@@ -9,7 +9,7 @@ Adobe Photoshop
 Open Game Art
    Spritesheet  
    Music   
-#Pictures
+# Pictures
 
 ![title](https://user-images.githubusercontent.com/93461196/171074856-bc157c29-c1e6-4e67-b2cf-7b3b3ba199e3.png)
 ![screenshot](https://user-images.githubusercontent.com/93461196/171074864-6e859aa6-4904-4b11-94e8-2d224e5151dd.png)
